@@ -1,6 +1,6 @@
 # Análisis de Casos Positivos de COVID-19
 
-## 📁 Descripción del proyecto
+## Descripción del proyecto
 Este proyecto contiene un análisis exploratorio y proceso de limpieza de datos sobre casos positivos de COVID-19. El objetivo principal es preparar un dataset consistente y útil para análisis posteriores, asegurando calidad e integridad de la información.
 
 El archivo principal es:
@@ -10,7 +10,7 @@ El archivo principal es:
 
 ---
 
-## 🔍 Contenido del notebook
+## Contenido del notebook
 
 ### 1. Análisis Exploratorio (EDA)
 Se realiza una revisión inicial del dataset para identificar:
@@ -27,7 +27,7 @@ Se detectaron columnas con más del **95% de valores nulos**, entre ellas:
 - Nombre del grupo étnico  
 - Fecha de muerte  
 
-📌 Decisión:
+Decisión:
 - Se eliminan las tres primeras columnas por su irrelevancia.
 - Se conserva **Fecha de muerte** por su valor analítico (relación con fallecimientos).
 
@@ -35,7 +35,7 @@ Se detectaron columnas con más del **95% de valores nulos**, entre ellas:
 
 ### 2. Limpieza de Datos
 
-#### 🧩 Imputación de valores
+#### Imputación de valores
 Se encontró que cuando ciertas columnas tienen valores nulos, la columna *Fecha de muerte* sí tiene datos.
 
 Columnas afectadas:
@@ -44,12 +44,12 @@ Columnas afectadas:
 - Recuperado  
 - Tipo de recuperación  
 
-📌 Acción:
+Acción:
 - Se imputa el valor **"Fallecido"** en estos campos cuando corresponde.
 
 ---
 
-#### 🧹 Eliminación de columnas
+#### Eliminación de columnas
 Se eliminan columnas con alta proporción de datos faltantes y bajo valor analítico.
 
 ---
@@ -57,8 +57,8 @@ Se eliminan columnas con alta proporción de datos faltantes y bajo valor analí
 ### 3. Guardado de datos
 El dataset limpio se exporta para su uso posterior.
 
-📌 Nota:
-Se dejan algunos aspectos pendientes intencionalmente para procesamiento adicional en Power Query:
+Nota:
+Se dejan algunos aspectos pendientes intencionalmente para procesamiento adicional en Power Query para práctica de limpieza con esta herramienta:
 
 - Valores vacíos en "fecha de inicio de síntomas"
 - Valores nulos en "Tipo de recuperación"
@@ -68,7 +68,7 @@ Se dejan algunos aspectos pendientes intencionalmente para procesamiento adicion
 ### 4. Revisión previa a Power Query
 Se analiza la viabilidad de eliminar registros incompletos.
 
-📌 Conclusión:
+Conclusión:
 - No se eliminan filas con fecha de inicio de síntomas nula
 - Esto evita pérdida de información importante en otras variables como:
   - Ubicación
@@ -76,7 +76,7 @@ Se analiza la viabilidad de eliminar registros incompletos.
 
 ---
 
-## 🎯 Objetivo final
+## Objetivo final
 
 Obtener un dataset:
 
@@ -87,7 +87,7 @@ Obtener un dataset:
 
 ---
 
-## 📌 Notas adicionales
+## Notas adicionales
 
 - El enfoque del notebook es principalmente de **preprocesamiento de datos**
 - Algunas decisiones de limpieza están orientadas a mantener la mayor cantidad de información posible
