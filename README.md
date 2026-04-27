@@ -1,9 +1,28 @@
 # Análisis de Casos Positivos de COVID-19
 
 ## Descripción del proyecto
-Este proyecto presenta un análisis exploratorio de datos (EDA) y un proceso de limpieza y transformación sobre casos positivos de COVID-19 en Colombia.
+Este proyecto presenta un análisis exploratorio de los casos de COVID-19 en Colombia utilizando datos abiertos del gobierno.
+El objetivo es identificar patrones clave en contagios, recuperación y mortalidad, apoyando la comprensión del impacto de la pandemia.
 
-El objetivo principal es preparar un dataset limpio, consistente y estructurado que permita realizar análisis posteriores y visualizaciones en herramientas como Power BI.
+## Insights clave
+* Alta concentración de casos en ciudades principales como Bogotá, Medellín y Cali
+* **Mayor vulnerabilidad en personas mayores de 60 años**, especialmente en tasas de mortalidad
+* Mayor número de casos en mujeres, posiblemente asociado a factores de exposición
+* Picos de contagio en periodos específicos, relacionados con dinámicas sociales y medidas sanitarias
+* Alta tasa de recuperación en comparación con fallecimientos
+
+## Visualizaciones
+### Distribución geográfica de casos
+<img width="424" height="237" alt="mapa" src="https://github.com/user-attachments/assets/f9b79787-5d85-43e2-bfeb-122f76e4314c" />
+
+### Evolución de casos en el tiempo
+<img width="425" height="200" alt="evolucion" src="https://github.com/user-attachments/assets/50939822-9252-45b8-b815-5b3deabf3ec2" />
+
+### Casos por género
+<img width="337" height="138" alt="casos_por_genero" src="https://github.com/user-attachments/assets/c8230bbc-0924-4740-b626-8f6e19215991" />
+
+
+---
 
 El archivo principal es:
 
