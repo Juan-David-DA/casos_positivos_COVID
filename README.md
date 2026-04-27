@@ -13,14 +13,16 @@ El objetivo es identificar patrones clave en contagios, recuperación y mortalid
 
 ## Visualizaciones
 ### Distribución geográfica de casos
-<img width="424" height="237" alt="mapa" src="https://github.com/user-attachments/assets/f9b79787-5d85-43e2-bfeb-122f76e4314c" />
+<img width="424" height="237" alt="mapa" src="https://github.com/Juan-David-DA/casos_positivos_COVID/blob/main/imgs/imgs/mapa.png" />
 
 ### Evolución de casos en el tiempo
-<img width="425" height="200" alt="evolucion" src="https://github.com/user-attachments/assets/50939822-9252-45b8-b815-5b3deabf3ec2" />
+<img width="425" height="200" alt="evolucion" src="https://github.com/Juan-David-DA/casos_positivos_COVID/blob/main/imgs/imgs/evolucion.png" />
 
 ### Casos por género
-<img width="337" height="138" alt="casos_por_genero" src="https://github.com/user-attachments/assets/c8230bbc-0924-4740-b626-8f6e19215991" />
+<img width="337" height="138" alt="casos_por_genero" src="https://github.com/Juan-David-DA/casos_positivos_COVID/blob/main/imgs/imgs/casos_por_genero.jpg" />
 
+### Recuperación vs. Fallecimientos
+<img width="337" height="138" alt="casos_por_genero" src="https://github.com/Juan-David-DA/casos_positivos_COVID/blob/main/imgs/imgs/recuperacion.jpg" />
 
 ---
 
