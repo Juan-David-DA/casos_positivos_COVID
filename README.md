@@ -1,7 +1,9 @@
 # Análisis de Casos Positivos de COVID-19
 
 ## Descripción del proyecto
-Este proyecto contiene un análisis exploratorio y proceso de limpieza de datos sobre casos positivos de COVID-19. El objetivo principal es preparar un dataset consistente y útil para análisis posteriores, asegurando calidad e integridad de la información.
+Este proyecto presenta un análisis exploratorio de datos (EDA) y un proceso de limpieza y transformación sobre casos positivos de COVID-19 en Colombia.
+
+El objetivo principal es preparar un dataset limpio, consistente y estructurado que permita realizar análisis posteriores y visualizaciones en herramientas como Power BI.
 
 El archivo principal es:
 
