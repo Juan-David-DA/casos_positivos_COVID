@@ -6,7 +6,7 @@ El objetivo es identificar patrones clave en contagios, recuperación y mortalid
 
 ## Insights clave
 * Alta concentración de casos en ciudades principales como Bogotá, Medellín y Cali
-* **Mayor vulnerabilidad en personas mayores de 60 años**, especialmente en tasas de mortalidad
+* **La tasa de mortalidad aumenta significativamente a partir de los 60 años**
 * Mayor número de casos en mujeres, posiblemente asociado a factores de exposición
 * Picos de contagio en periodos específicos, relacionados con dinámicas sociales y medidas sanitarias
 * Alta tasa de recuperación en comparación con fallecimientos
