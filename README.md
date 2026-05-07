@@ -29,7 +29,7 @@ El objetivo es identificar patrones clave en contagios, recuperación y mortalid
 El archivo principal es:
 
 - `Casos_positivos_COVID.ipynb`: Notebook con el análisis, limpieza y transformación de los datos.
-- Acceder a los datasets y al tablero de Power BI: [Drive](https://drive.google.com/file/d/1h7dFzPYGxl9f46B32VI2OiwYtJbxK_eS/view?usp=drive_link)
+- Acceder a los datasets y al tablero de Power BI: [Drive](https://drive.google.com/file/d/1q5wLUPP-tBk-pJvUuqKdWRAR8MPLOdAW/view?usp=sharing)
 
 ---
 
